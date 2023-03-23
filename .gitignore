@@ -9,3 +9,5 @@ public/
 resources/_gen/
 issues/
 *.docx
+node_modules/
+W/
