@@ -1,0 +1,43 @@
+{
+    "metadata": {
+        "title": "Thorium Reader Documentation"
+    },
+    "links": [
+        {
+            "href": "https://github.com/edrlab/thorium-reader-doc/blob/master/opds/opds.json",
+            "type": "application/opds+json",
+            "rel": "self"
+        }
+    ],
+    "publications": [
+        {
+            "metadata": {
+                "@type": "http://schema.org/Book",
+                "identifier": "Th-Doc-En-3.0",
+                "title": "Thorium Reader Documentation English 3.0",
+                "author": "The European Digital Reading Lab",
+                "description": "",
+                "collection": "Thorium Reader Documentation ",
+                "modified": "2024-03-31T11:00:00Z",
+                "publisher": "The European Digital Reading Lab",
+                "subject": [
+                ]
+            },
+            "links": [
+                {
+                    "type": "application/epub+zip",
+                    "rel": "http://opds-spec.org/acquisition/open-access",
+                    "href": "https://github.com/edrlab/thorium-reader-doc/raw/master/builds/Thorium_Reader_Documentation_English_3.0.0.epub"
+                }
+            ],
+            "images": [
+                {
+                    "href": "https://raw.githubusercontent.com/edrlab/thorium-reader-doc/sources/en/EPUB/resources/images/cover.png",
+                    "type": "image/jpeg",
+                    "height": 600,
+                    "width": 400
+                }
+            ]
+        }
+    ]
+}
