@@ -27,12 +27,12 @@
                 {
                     "type": "application/epub+zip",
                     "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://github.com/edrlab/thorium-reader-doc/raw/master/builds/Thorium_Reader_Documentation_English_3.0.0.epub"
+                    "href": "https://github.com/edrlab/thorium-reader-doc/raw/as-epub/builds/Thorium_Reader_Documentation_English_3.epub"
                 }
             ],
             "images": [
                 {
-                    "href": "https://raw.githubusercontent.com/edrlab/thorium-reader-doc/sources/en/EPUB/resources/images/cover.png",
+                    "href": "https://github.com/edrlab/thorium-reader-doc/raw/as-epub/sources/en/EPUB/resources/images/cover.png",
                     "type": "image/jpeg",
                     "height": 600,
                     "width": 400
