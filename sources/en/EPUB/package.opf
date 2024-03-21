@@ -4,6 +4,7 @@
   <metadata 
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Thorium Reader Documentation English</dc:title>
+    <meta property="schema:version">0.0.1</meta>
     <dc:creator>EDRLab</dc:creator>
     <dc:publisher>EDRLab</dc:publisher>
     <dc:description>Get to know better Thorium Reader</dc:description>
@@ -338,11 +339,7 @@
     />
     <item id="cover" href="cover/index.xhtml" media-type="application/xhtml+xml"/>
     <item id="toc" properties="nav" href="toc/index.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page1" href="./pages/000_todo/index.xhtml" media-type="application/xhtml+xml"
-    />
     <item id="page2" href="./pages/100_quickStart/index.xhtml" media-type="application/xhtml+xml"
-    />
-    <item id="page3" href="./pages/110_notes/index.xhtml" media-type="application/xhtml+xml"
     />
     <item id="page4" href="./pages/212_ImageZoom/index.xhtml" media-type="application/xhtml+xml"
     />
@@ -408,9 +405,7 @@
   <spine>
     <itemref idref="cover"/>
     <itemref idref="page28"/>
-    <itemref idref="page1"/>
     <itemref idref="page2"/>
-    <itemref idref="page3"/>
     <itemref idref="page30"/>
     <itemref idref="page4"/>
     <itemref idref="page5"/>

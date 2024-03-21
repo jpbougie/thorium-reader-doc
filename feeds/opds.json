@@ -27,7 +27,7 @@
                 {
                     "type": "application/epub+zip",
                     "rel": "http://opds-spec.org/acquisition/open-access",
-                    "href": "https://github.com/edrlab/thorium-reader-doc/raw/as-epub/builds/Thorium_Reader_Documentation_English_3.epub"
+                    "href": "https://github.com/edrlab/thorium-reader-doc/raw/as-epub/sources/en.epub"
                 }
             ],
             "images": [
