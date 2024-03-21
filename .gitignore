@@ -2,7 +2,7 @@
 resources/
 node_modules/
 .hugo_build.lock
-W
+W/*
 Todo.md
 .gitmodules
 .nvmrc
