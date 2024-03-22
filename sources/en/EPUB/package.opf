@@ -25,6 +25,16 @@
     <meta property="schema:accessibilityControl">fullMouseControl</meta>
   </metadata>
   <manifest>
+    <item id="blitzcss"
+      href="resources/css/blitz.css"
+      media-type="text/css"
+    
+    />
+        <item id="edrlabcss"
+      href="resources/css/edrlabpublications.css"
+      media-type="text/css"
+    
+    />
     <item id="rsc1"
       href="resources/css/page.css"
       media-type="text/css"
@@ -50,12 +60,17 @@
       media-type="font/otf"
     
     />
-    <item id="rsc6"
+
+    <item id="coverimg"
       href="resources/images/cover.png"
       media-type="image/png"
     
       properties="cover-image"
     
+    />
+    <item id="asterism"
+      href="resources/images/asterism.svg"
+      media-type="image/svg+xml"    
     />
     <item id="rsc7"
       href="resources/images/icons/auto.svg"
